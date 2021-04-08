@@ -1,2 +1,2 @@
-class Portfolio < ApplicationRecord
+class Portfolio < ApplicationRecord 
 end
