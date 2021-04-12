@@ -5,5 +5,5 @@ class Skill < ApplicationRecord
 
   def set_defaults
     self.badge = "http://placehold.it/250x250" if badge==nil
-  
+  end
 end
