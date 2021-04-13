@@ -1,4 +1,6 @@
-
+# require_relative '../app/models/portfolio.rb'
+require 'spec-helper'
+# require 'rails-helper'
 
 RSpec.describe 'Portfolio' do
   it 'has a type' do
