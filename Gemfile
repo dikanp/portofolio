@@ -51,3 +51,5 @@ gem 'devise', '~> 4.7', '>= 4.7.3'
 gem 'rexml', require: false
 gem 'rspec-rails'
 gem 'petergate', '~> 2.0', '>= 2.0.1'
+gem 'twitter', '~> 7.0'
+gem 'redis', '~> 4.2', '>= 4.2.5'
